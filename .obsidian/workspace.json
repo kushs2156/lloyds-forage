@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "47207b987908eb01",
+    "type": "split",
+    "children": [
+      {
+        "id": "182bea04b39fbd5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4987c65a7ad65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/Report on Model Selection, Testing and Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report on Model Selection, Testing and Performance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "345bafe65f504091",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c756a6e592eaaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc129e7f34bef9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "794bd94f2aeda427",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2feb78e7d388559a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "e6bf69ce1a7ad4fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7440638aa054ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ab637418dc55a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task 1/8 - Task instructions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8 - Task instructions"
+            }
+          },
+          {
+            "id": "1f6ed0c3c09a9555",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task 1/8 - Task instructions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8 - Task instructions"
+            }
+          },
+          {
+            "id": "5d6d9c0addb820ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33c6c4d034ab4548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task 1/8 - Task instructions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8 - Task instructions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d4987c65a7ad65a",
+  "lastOpenFiles": [
+    "Task 2/8 - Task instructions.md",
+    "reports/Report on Model Selection, Testing and Performance.md",
+    "Task 1/8 - Task instructions.md",
+    "Task 1/6 - Quiz.md",
+    "Task 2/7 - Crafting the predictive blueprint.md",
+    "Task 2/6 - Quiz.md",
+    "Task 2/5 - Techniques for suggesting ways to evaluate and measure the model's performance.md",
+    "Task 1/2 - Let's get started.md",
+    "Task 2/3 - Approaches to selecting appropriate machine learning algorithms.md",
+    "Task 2/4 - Approaches to selecting and building machine learning models for classification tasks.md",
+    "Task 1/3 - Techniques for identifying and collecting data.md",
+    "2 - Let's get started.md",
+    "Task 2/2 - Let's get started.md",
+    "Task 2/1 - Task Overview.md",
+    "Task 1/1 - Task Overview.md",
+    "reports/Report on EDA and preprocessing.md",
+    "reports/~$stomer_Churn_Analysis_Report (Example).docx",
+    "reports/Customer_Churn_Analysis_Report (Example).docx",
+    "reports/Customer_Churn_Analysis_Report.docx",
+    "reports/Report on EDA and preprocessing.pdf",
+    "data/Customer_Churn.csv",
+    "Images/AvgSpend_No_Outliers.png",
+    "Images/AvgSpend_Outliers.png",
+    "Images/Correlation_Matrix.png",
+    "Images/ServiceUsage_ChurnStatus.png",
+    "Images/IncomeLevel_ChurnStatus.png",
+    "Images/ResRat_Dist_Churn_No_Churn.png",
+    "Images/LogFre_Dist_Churn_No_Churn.png",
+    "Images/TotSpe_Dist_Churn_Non_Churn.png",
+    "Images/AvgSpe_Dist_Churn_Non_Churn.png",
+    "Images/TotPur_Dist_Churn_Non_Churn.png",
+    "Images",
+    "data/~$Customer_Churn_Raw.xlsx",
+    "Task 1/Report on EDA and preprocessing.md",
+    "data/~$7ECE5720",
+    "data/7ECE5720",
+    "environment.yml",
+    "Task 1/7 - Data gathering and exploratory analysis.md",
+    "Task 1/5 - Best practices for cleaning and preparing data for machine learning models.md",
+    "Task 1/4 - Methods for performing EDA to uncover patterns and insights.md",
+    "Intro & Scenario/5 - Let's get started!.md",
+    "Intro & Scenario/4 - Quiz.md",
+    "Intro & Scenario/3 - Project briefing.md",
+    "Intro & Scenario/2 - Your team.md",
+    "Intro & Scenario/1 - Welcome!.md"
+  ]
+}

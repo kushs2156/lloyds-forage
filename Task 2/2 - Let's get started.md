@@ -1,0 +1,9 @@
+You've already laid a solid foundation by exploring and preparing the data. Now, it's time to apply machine learning techniques to build a predictive model for customer churn, a crucial step in enhancing SmartBank's customer retention strategies.
+
+In this task, your focus will shift from data preparation to model development. The challenge lies in selecting the right machine learning algorithm and fine-tuning it to accurately predict which customers are at risk of leaving. This model will provide actionable insights, enabling the team to develop targeted interventions to retain valuable customers.
+
+Li, your mentor, has emphasised the importance of accuracy and precision in this phase. "The insights from this model will drive our retention strategies. It’s crucial that we build a model that not only predicts churn but also provides clear indicators of why customers are leaving," she explains. This guidance underscores the practical implications of your work; the model you build must be both accurate and interpretable.
+
+Your task involves choosing an appropriate algorithm, training the model, and evaluating its performance. Remember, the goal is to create a model that can be easily understood and acted on by business stakeholders. As you work through this task, consider the factors that could influence churn, such as spending habits, service usage, and demographic characteristics.
+
+This is a chance to showcase your data science expertise in a real-world scenario. Your efforts will not only enhance your skills but also contribute significantly to the team's understanding of customer behaviour. As you begin, keep in mind the practical impact of your model on SmartBank's strategic decisions. Let's get started and bring your analysis to life!

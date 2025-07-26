@@ -1,0 +1,4 @@
+The Data Science & Analytics team at Lloyds Banking Group leverages advanced data analysis techniques to provide actionable insights and predictive models that enhance customer retention and drive business decisions.
+
+- **Who You Are:** Data Science Graduate - As a data science graduate, you will take on the responsibilities of a new hire in the Data Science & Analytics team, focusing on gathering and analysing data, performing exploratory data analysis, and building predictive models to improve customer retention.
+- **Your Team:** Senior Data Scientist - Li is a senior data scientist, who leads the Data Science & Analytics team, providing strategic direction and guidance on projects that leverage data to enhance customer retention and drive business value.
